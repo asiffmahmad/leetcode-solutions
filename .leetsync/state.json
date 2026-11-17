@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "updatedAt": 1794896116512,
+  "devices": {
+    "6ab476f2-bb23-4557-9cea-1e79dabecbaf": {
+      "lastSeen": 1794896115890
+    }
+  },
+  "problems": {},
+  "achievements": {},
+  "sheets": {},
+  "days": [],
+  "bests": {
+    "longestStreak": 0,
+    "pushes": 0
+  },
+  "identity": {
+    "installId": "66346b30-2d01-47c4-a240-c7b71fab7d14",
+    "at": 1794895259460,
+    "name": "asiff",
+    "nameAt": 1794895750651
+  }
+}

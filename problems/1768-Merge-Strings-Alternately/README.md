@@ -15,7 +15,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="panel-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="panel-light.svg">
-  <img alt="Topics: Two Pointers, String — best runtime 1 ms (Beats 97%), best memory 42.5 MB (Beats 82%)" src="panel-dark.svg">
+  <img alt="Topics: Two Pointers, String — best runtime 1 ms (Beats 97%), best memory 42.7 MB (Beats 74%)" src="panel-dark.svg">
 </picture>
 
 </div>
@@ -24,9 +24,9 @@
 
 | | |
 |:--|:--|
-| **Attempts** | 4 before accepted |
-| **Time to solve** | 8 min |
-| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted → ✅ Accepted |
+| **Attempts** | 5 before accepted |
+| **Time to solve** | 11 min |
+| **Verdicts** | ✅ Accepted → ✅ Accepted → ✅ Accepted → ✅ Accepted → ✅ Accepted |
 
 ---
 

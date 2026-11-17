@@ -1,15 +1,15 @@
 {
   "v": 1,
-  "updatedAt": 1794896584597,
+  "updatedAt": 1794896677069,
   "devices": {
     "6ab476f2-bb23-4557-9cea-1e79dabecbaf": {
-      "lastSeen": 1794896584058
+      "lastSeen": 1794896676541
     }
   },
   "problems": {
     "1768": {
-      "attempts": 5,
-      "bestMemory": "42.7 MB (Beats 74%)",
+      "attempts": 8,
+      "bestMemory": "42.4 MB (Beats 88%)",
       "bestRuntime": "1 ms (Beats 97%)",
       "date": "2026-11-17",
       "difficulty": "Easy",
@@ -18,13 +18,13 @@
       "language": "Java",
       "number": 1768,
       "slug": "merge-strings-alternately",
-      "solutionCount": 3,
+      "solutionCount": 4,
       "tags": [
         "Two Pointers",
         "String"
       ],
       "title": "Merge Strings Alternately",
-      "at": 1794896584058
+      "at": 1794896676541
     }
   },
   "achievements": {
@@ -36,7 +36,7 @@
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 7
+    "pushes": 8
   },
   "identity": {
     "installId": "66346b30-2d01-47c4-a240-c7b71fab7d14",

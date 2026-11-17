@@ -4,7 +4,7 @@
 // Language   : Java
 // Solution   : #3
 // Runtime    : 1 ms (Beats 97%)
-// Memory     : 42.5 MB (Beats 82%)
+// Memory     : 42.7 MB (Beats 74%)
 // Link       : https://leetcode.com/problems/merge-strings-alternately/
 // ==========================================================
 

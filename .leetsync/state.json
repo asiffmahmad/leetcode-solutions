@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1794943786890,
+  "updatedAt": 1794962139564,
   "devices": {
     "6ab476f2-bb23-4557-9cea-1e79dabecbaf": {
-      "lastSeen": 1794942708949
+      "lastSeen": 1794962139105
     }
   },
   "problems": {
@@ -24,11 +24,12 @@
         "String"
       ],
       "title": "Merge Strings Alternately",
-      "at": 1794942708949
+      "at": 1794962139105
     }
   },
   "achievements": {
-    "first_blood": 1794896131352
+    "first_blood": 1794896131352,
+    "night_owl": 1794943788339
   },
   "sheets": {},
   "days": [
